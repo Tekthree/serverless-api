@@ -1,0 +1,25 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "# Authors - Tek Jones ---",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tekthree/serverless-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tekthree/serverless-api/issues"
+  },
+  "homepage": "https://github.com/Tekthree/serverless-api#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "express": "^4.17.1"
+  }
+}
