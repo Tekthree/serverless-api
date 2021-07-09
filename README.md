@@ -54,6 +54,8 @@ Create a single resource REST API using a domain model of your choosing, constru
 
 ## Routes via API Gateway
 
+https://jg59p2zrab.execute-api.us-west-2.amazonaws.com/people
+
 ### POST
   /people
     * Given a JSON body, inserts a record into the database
